@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+viewabletext {
+  color: white;
+  text-shadow: 2px;
+  text-shadow: gray-100;
+}
