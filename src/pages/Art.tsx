@@ -1,9 +1,9 @@
-import React from 'react'
-
 const Art = () => {
   return (
-    <div>SamplePage1</div>
-  )
-}
+    <div className="pt-20">
+      <h1 className=" text-white">Art Page, hope this works!</h1>
+    </div>
+  );
+};
 
-export default Art
+export default Art;
